@@ -1,2 +1,2 @@
 # Budget-Tracker
-Basic Budget Tracking system. I did this for my term requirement when i was in 1st yr 
+Basic Budget Tracking system. A budgettracker for specific client (simulation) of hypothetical uses.
